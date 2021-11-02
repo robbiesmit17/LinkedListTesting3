@@ -66,7 +66,6 @@ int main()
     CreateStructy(head);
     CreateStructy(head);
     CreateStructy(head);
-    CreateStructy(head);
     append(&head, "THING");
     append(&head, "THING");
 
